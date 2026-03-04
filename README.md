@@ -1,5 +1,5 @@
 # ⭑.ᐟ About Me:
-⤷ ゛Stephy  ˎˊ˗<br>𑣲  Aspiring Software Developer | 2nd Year Creative Software Development at Grafisch Lyceum Rotterdam.<br>✉ st3phylai@gmail.com<br>ᯓ www.st3phy.com<br>⚲ Based in the Netherlands
+⤷ ゛Stephy  ˎˊ˗<br>𑣲  Aspiring Software Developer | 2nd Year Creative Software Development at Grafisch Lyceum Rotterdam.<br>🖂 st3phylai@gmail.com<br>ᯓ www.st3phy.com<br>⚲ Based in the Netherlands
 
 
 ## ╰┈➤ Socials :
