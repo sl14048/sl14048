@@ -2,7 +2,7 @@
 ⤷ ゛Stephy  ˎˊ˗<br>𑣲  Aspiring Software Developer | 2nd Year Creative Software Development at Grafisch Lyceum Rotterdam.<br>✉ st3phylai@gmail.com<br>ᯓ www.st3phy.com<br>⚲ Based in the Netherlands
 
 
-## ↪ Socials :
+## ╰┈➤ Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/st3phy/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32452406) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Stephy-the-sans) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:st3phylai@gmail.com) 
 
 # ᝰ.ᐟ Tech Stack:
