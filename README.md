@@ -11,11 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=sl14048&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sl14048&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sl14048&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ⌞Random Dev Quote⌝ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=sl14048&icon=2&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
